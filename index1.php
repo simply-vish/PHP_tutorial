@@ -105,6 +105,13 @@
                             <th><a href="Functions.php">link</a></th>
                         </tr>
                     </tbody>
+                    <tbody>
+                        <tr>
+                            <th>13</th>
+                            <th>Math Functions</th>
+                            <th><a href="math_functions.php">link</a></th>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </div>
