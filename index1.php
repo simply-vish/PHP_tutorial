@@ -97,6 +97,14 @@
                             <th>Exception Handling</th>
                             <th><a href="exception_handling.php">link</a></th>
                         </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th>12</th>
+                            <th>Functions</th>
+                            <th><a href="Functions.php">link</a></th>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </div>
