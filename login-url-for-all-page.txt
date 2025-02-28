@@ -1,0 +1,6 @@
+http://localhost/xampp/constants.php
+
+
+use same at xampp and after that your file name instead of constants.php
+
+:)
