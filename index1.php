@@ -91,6 +91,12 @@
                             <th><a href="classesandobjects.php">link</a></th>
                         </tr>
                     </tbody>
+                    <tbody>
+                        <tr>
+                            <th>11</th>
+                            <th>Exception Handling</th>
+                            <th><a href="exception_handling.php">link</a></th>
+                        </tr>
                 </table>
             </div>
         </div>
