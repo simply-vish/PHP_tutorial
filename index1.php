@@ -112,6 +112,20 @@
                             <th><a href="math_functions.php">link</a></th>
                         </tr>
                     </tbody>
+                    <tbody>
+                        <tr>
+                            <th>14</th>
+                            <th>Methods</th>
+                            <th><a href="methods.php">link</a></th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th>15</th>
+                            <th>Form Handling</th>
+                            <th><a href="formhandling1.php">link</a></th>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </div>

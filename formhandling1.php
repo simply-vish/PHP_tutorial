@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP 101 | Form Handling and Validation</title>
+    
+</head>
+<body>
+    <p><a href="index1.php">Go back</a></p>
+    <div class="container">
+        <form method="post" action="formhandling2.php">
+            <input type="text" name="name">
+            <input type="text" name="email">
+            <input type="submit">
+        </form>
+    </div>
+</body>
+</html>
