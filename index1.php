@@ -154,6 +154,13 @@
                             <th><a href="cookie.php">link</a></th>
                         </tr>
                     </tbody>
+                    <tbody>
+                        <tr>
+                            <th>20</th>
+                            <th>Session</th>
+                            <th><a href="Session.php">link</a></th>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </div>
