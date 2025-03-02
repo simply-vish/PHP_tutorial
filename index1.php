@@ -147,6 +147,13 @@
                             <th><a href="filesystem.php">link</a></th>
                         </tr>
                     </tbody>
+                    <tbody>
+                        <tr>
+                            <th>19</th>
+                            <th>Cookie</th>
+                            <th><a href="cookie.php">link</a></th>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </div>
