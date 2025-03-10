@@ -161,6 +161,13 @@
                             <th><a href="Session.php">link</a></th>
                         </tr>
                     </tbody>
+                    <tbody>
+                        <tr>
+                            <th>21</th>
+                            <th>Send Email</th>
+                            <th><a href="sendemail.php">link</a></th>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </div>
