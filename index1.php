@@ -189,6 +189,13 @@
                             <th><a href="mysqlbasics.php">link</a></th>
                         </tr>
                     </tbody>
+                    <tbody>
+                        <tr>
+                            <th>24</th>
+                            <th>MySQL CRUD</th>
+                            <th><a href="mysqlcrud.php">link</a></th>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </div>
